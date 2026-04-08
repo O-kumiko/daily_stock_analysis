@@ -145,6 +145,8 @@ jobs:
           EMAIL_GROUP_2: ${{ secrets.EMAIL_GROUP_2 }}
           STOCK_GROUP_3: ${{ secrets.STOCK_GROUP_3 }}
           EMAIL_GROUP_3: ${{ secrets.EMAIL_GROUP_3 }}
+          STOCK_GROUP_4: ${{ secrets.STOCK_GROUP_4 }}
+          EMAIL_GROUP_4: ${{ secrets.EMAIL_GROUP_4 }}
           
           # 方式五：Pushover
           PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
